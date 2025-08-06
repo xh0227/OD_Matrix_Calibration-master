@@ -1,0 +1,5 @@
+<additional>
+<routes>
+	<vType id="car" color="252,186,3" vClass="passenger" maxSpeed="40" speedFactor="1.1" emissionClass="HBEFA3/PC_G_EU6" />
+</routes>
+</additional>

@@ -1,0 +1,22 @@
+<tazs>
+    <taz id="alpha">
+        <tazSource id="alpha_w" weight="1.0"/>
+        <tazSink id="alpha_e" weight="1.0"/>
+    </taz>
+    <taz id="beta">
+        <tazSource id="beta_e" weight="1.0"/>
+        <tazSink id="beta_w" weight="1.0"/>
+    </taz>
+    <taz id="1" edges="1_w 1_e"/>
+    <taz id="2" edges="2_w 2_e"/>
+    <taz id="3" edges="3_w 3_e"/>
+    <taz id="4" edges="4_w 4_e"/>
+    <taz id="5" edges="5_w 5_e"/>
+    <taz id="6" edges="6_w 6_e"/>
+    <taz id="a" edges="a_n a_s"/>
+    <taz id="b" edges="b_n b_s"/>
+    <taz id="c" edges="c_n c_s"/>
+    <taz id="d" edges="d_n d_s"/>
+    <taz id="e" edges="e_n e_s"/>
+    <taz id="f" edges="f_n f_s"/>
+</tazs>
